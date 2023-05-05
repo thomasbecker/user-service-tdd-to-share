@@ -1,0 +1,11 @@
+INSERT INTO ADDRESS(ID, POSTAL_CODE, STREET, STREET_NO, CITY)
+VALUES ('6182628f-4e21-4778-a52a-fe2a82fad827', '41113', 'Sesamestreet', '2a', 'Sesamecity');
+
+INSERT INTO ADDRESS(ID, POSTAL_CODE, STREET, STREET_NO, CITY)
+VALUES ('6182628f-4e21-4778-a52a-fe2a8rrad827', '41113', 'Sesamestreet', '2a', 'Sesamecity');
+
+INSERT INTO USER (ID, EMAIL, FIRST_NAME, LAST_NAME)
+VALUES ('6182628f-4e21-4778-a52a-fe2a82f45827', 'test@user.de', 'testFirstName', 'testLastName');
+
+INSERT INTO USER (ID, EMAIL, FIRST_NAME, LAST_NAME)
+VALUES ('6182628f-4e21-5578-a52a-fe2a82f75234', 'test2@user.de', 'test2FirstName', 'test2LastName');
